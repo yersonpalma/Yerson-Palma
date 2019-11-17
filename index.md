@@ -1,4 +1,4 @@
-##  Hola Yerson Palma
+##  Hola Yerson Palma.
 
 Trabajos de visualización de datos de cibergéneros periodísticos 2019.
 
